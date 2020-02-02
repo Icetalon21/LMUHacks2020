@@ -1,0 +1,166 @@
+
+
+body {
+  background-color: #cce6ff;
+}
+
+#ultimatetitle {
+  margin-bottom: 0px;
+  font-family: 'Exo 2', sans-serif;
+  color: #0066cc;
+  weight: 6px;
+  margin-left: 20px;
+}
+
+#wheredoyouexistonline {
+  margin-top: 10px;
+  color: white;
+  font-family: 'Exo 2', sans-serif;
+  margin-left: 20px;
+}
+
+#header1 {
+  display: inline-block;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 10;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0066cc;
+}
+
+li {
+  float: left;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #66b3ff;
+}
+
+#div1 {
+  width: 100%;
+  margin-top: 0px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #99ccff;
+}
+
+#div3 {
+  width: 100%;
+  margin-top: 0px;
+  text-align: center;
+  background-color: #99ccff;
+  padding: 20px 0px;
+}
+
+#silhouette {
+  margin-top: 77px;
+  margin-right: 20%;
+}
+
+h2 {
+  font-family: 'Exo 2', sans-serif;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#takecontrolofimage {
+  text-align: center;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 20px;
+}
+
+#div1text {
+  font-family: 'Exo 2', sans-serif;
+  // margin-right: 50%;
+  margin-right: 10%;
+  margin-left: 25%;
+  font-size: 25px;
+  color: white;
+}
+
+.a123div {
+  display: inline-block;
+}
+
+p {
+  font-family: 'Exo 2', sans-serif;
+}
+
+#div2 {
+  width: 100%;
+  margin-top: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #99ccff;
+}
+
+#div4 {
+  width: 100%;
+  margin-top: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #99ccff;
+  padding: 30px 20px;
+}
+
+.byuploading {
+  color: white;
+  padding: 0% 25%;
+  font-family: 'Exo 2', sans-serif;
+}
+
+#div5 {
+  width: 100%;
+  margin-top: 30px;
+  text-align: center;
+  background-color: #99ccff;
+  padding: 20px 0px;
+}
+
+#mailbox {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#contacttext {
+  font-family: 'Exo 2', sans-serif;
+  // margin-right: 50%;
+  margin-right: 10%;
+  margin-left: 25%;
+  margin-top: 70px;
+  font-size: 25px;
+  color: white;
+}
+
+#div2text {
+  font-family: 'Exo 2', sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-right: 26%;
+  margin-left: 25%;
+  margin-top: 70px;
+}
+
+#div2img {
+  margin-left: 55%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
